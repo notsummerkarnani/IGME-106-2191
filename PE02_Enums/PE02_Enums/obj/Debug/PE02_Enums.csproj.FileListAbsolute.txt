@@ -1,0 +1,6 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\bin\Debug\PE02_Enums.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\bin\Debug\PE02_Enums.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\bin\Debug\PE02_Enums.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\obj\Debug\PE02_Enums.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\obj\Debug\PE02_Enums.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE02_Enums\PE02_Enums\obj\Debug\PE02_Enums.pdb

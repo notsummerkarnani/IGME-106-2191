@@ -1,0 +1,6 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\bin\Debug\PE20-TalentTreeTraversal.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\bin\Debug\PE20-TalentTreeTraversal.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\bin\Debug\PE20-TalentTreeTraversal.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\obj\Debug\PE20-TalentTreeTraversal.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\obj\Debug\PE20-TalentTreeTraversal.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE20-TalentTreeTraversal\PE20-TalentTreeTraversal\obj\Debug\PE20-TalentTreeTraversal.pdb

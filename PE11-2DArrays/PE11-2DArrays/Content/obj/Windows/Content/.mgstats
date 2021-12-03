@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/dirt.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/dirt.xnb","TextureProcessor","Texture2DContent",4253,65621,0.1241486
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/dirt_border.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/dirt_border.xnb","TextureProcessor","Texture2DContent",4270,65621,0.0153291
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/grass.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/grass.xnb","TextureProcessor","Texture2DContent",9914,65621,0.0172671
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/grass_border.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/grass_border.xnb","TextureProcessor","Texture2DContent",9486,65621,0.0189078
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/sky.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/sky.xnb","TextureProcessor","Texture2DContent",3041,65621,0.016454
+"Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/sky_border.png","Z:/IGMProfile/Desktop/GDAPS2/PE11-2DArrays/PE11-2DArrays/Content/bin/Windows/Content/sky_border.xnb","TextureProcessor","Texture2DContent",3122,65621,0.0184501

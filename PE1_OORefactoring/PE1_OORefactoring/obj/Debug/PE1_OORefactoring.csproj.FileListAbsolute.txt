@@ -1,0 +1,6 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\bin\Debug\PE1_OORefactoring.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\bin\Debug\PE1_OORefactoring.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\bin\Debug\PE1_OORefactoring.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\obj\Debug\PE1_OORefactoring.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\obj\Debug\PE1_OORefactoring.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE1_OORefactoring\PE1_OORefactoring\obj\Debug\PE1_OORefactoring.pdb

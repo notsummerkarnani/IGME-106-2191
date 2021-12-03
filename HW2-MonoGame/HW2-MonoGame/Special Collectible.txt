@@ -1,0 +1,6 @@
+Samar Karnani
+09/02/20
+
+My special collectible is a collectible that moves in a particular pattern. I add values to the x and y posiitons of the rectangle to move it in a particular direction and make sure that it bounces off the edge of the screen.
+
+They look like ordinary collecibles and are part of the collectibles list but for every new level I use one more collectible in the list as a special collectible.

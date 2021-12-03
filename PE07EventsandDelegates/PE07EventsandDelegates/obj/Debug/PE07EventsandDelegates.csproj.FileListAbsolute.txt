@@ -1,0 +1,6 @@
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\bin\Debug\PE07EventsandDelegates.exe.config
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\bin\Debug\PE07EventsandDelegates.exe
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\bin\Debug\PE07EventsandDelegates.pdb
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\obj\Debug\PE07EventsandDelegates.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\obj\Debug\PE07EventsandDelegates.exe
+C:\Users\Samar_K14501\source\repos\PE07EventsandDelegates\PE07EventsandDelegates\obj\Debug\PE07EventsandDelegates.pdb

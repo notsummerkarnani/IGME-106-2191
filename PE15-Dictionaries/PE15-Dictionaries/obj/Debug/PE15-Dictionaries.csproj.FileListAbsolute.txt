@@ -1,0 +1,6 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\bin\Debug\PE15-Dictionaries.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\bin\Debug\PE15-Dictionaries.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\bin\Debug\PE15-Dictionaries.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\obj\Debug\PE15-Dictionaries.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\obj\Debug\PE15-Dictionaries.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE15-Dictionaries\PE15-Dictionaries\obj\Debug\PE15-Dictionaries.pdb

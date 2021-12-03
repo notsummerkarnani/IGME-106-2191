@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/../../../PE11-2DArrays/Tile images/Tile images/grass_border.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/dirt.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/dirt_border.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/grass.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/grass_border.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/sky.png</File>
+    <File>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/PE11-2DArrays1/PE11-2DArrays1/Content/sky_border.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>grass_border.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

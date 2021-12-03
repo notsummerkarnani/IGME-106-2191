@@ -1,0 +1,20 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Form1.resources
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Properties.Resources.resources
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.csproj.GenerateResource.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.pdb
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.exe.config
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.exe
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\bin\Debug\PE09-GuessingGame.pdb
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.csprojAssemblyReference.cache
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Form1.resources
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Properties.Resources.resources
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.csproj.GenerateResource.cache
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.exe
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09-GuessingGame.pdb
+Z:\IGMProfile\Desktop\GDAPS2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Parameters.resources
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE09-GuessingGame\PE09-GuessingGame\obj\Debug\PE09_GuessingGame.Parameters.resources

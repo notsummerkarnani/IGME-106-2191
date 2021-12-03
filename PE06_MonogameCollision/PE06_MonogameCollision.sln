@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE06_MonogameCollision", "PE06_MonogameCollision\PE06_MonogameCollision.csproj", "{0F12FD1C-D34A-4D04-9E4F-1E61A9B1A6EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F12FD1C-D34A-4D04-9E4F-1E61A9B1A6EF}.Debug|x86.ActiveCfg = Debug|x86
+		{0F12FD1C-D34A-4D04-9E4F-1E61A9B1A6EF}.Debug|x86.Build.0 = Debug|x86
+		{0F12FD1C-D34A-4D04-9E4F-1E61A9B1A6EF}.Release|x86.ActiveCfg = Release|x86
+		{0F12FD1C-D34A-4D04-9E4F-1E61A9B1A6EF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E02CF364-4B09-4048-B398-9C372C81C5BF}
+	EndGlobalSection
+EndGlobal

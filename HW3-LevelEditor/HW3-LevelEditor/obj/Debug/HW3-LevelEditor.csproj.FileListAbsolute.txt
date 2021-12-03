@@ -1,0 +1,10 @@
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\bin\Debug\HW3-LevelEditor.exe.config
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\bin\Debug\HW3-LevelEditor.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\bin\Debug\HW3-LevelEditor.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3-LevelEditor.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3_LevelEditor.Form1.resources
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3_LevelEditor.Properties.Resources.resources
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3-LevelEditor.csproj.GenerateResource.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3-LevelEditor.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3-LevelEditor.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\HW3-LevelEditor\HW3-LevelEditor\obj\Debug\HW3_LevelEditor.LevelEditor.resources

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/HW2-MonoGame/HW2-MonoGame/Content/Arial18.spritefont</SourceFile>
+  <SourceTime>2020-02-09T02:28:05.3005262-05:00</SourceTime>
+  <DestFile>C:/Users/Samar_K14501/OneDrive/RESOURCES/GDAPS 2/HW2-MonoGame/HW2-MonoGame/Content/bin/Windows/Arial18.xnb</DestFile>
+  <DestTime>2020-02-09T02:28:19.6555071-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

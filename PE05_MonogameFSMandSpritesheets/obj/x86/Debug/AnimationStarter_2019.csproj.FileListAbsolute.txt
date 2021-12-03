@@ -1,0 +1,71 @@
+D:\Chris\Desktop\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csprojAssemblyReference.cache
+D:\Chris\Desktop\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csproj.CoreCompileInputs.cache
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.exe
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.pdb
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Chris\Desktop\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Chris\Desktop\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csproj.CopyComplete
+D:\Chris\Desktop\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.exe
+D:\Chris\Desktop\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.pdb
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.exe
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.pdb
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csprojAssemblyReference.cache
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csproj.CoreCompileInputs.cache
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csproj.CopyComplete
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.exe
+D:\Erin\Dropbox\106 - Spring 2020\Lectures\W3 - FSMs, Algorithms, Project\Day 1 - Finite State Machines and Enums\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\Content\MarioSpriteSheet.xnb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\AnimationStarter_2019.pdb
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csprojAssemblyReference.cache
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.csproj.CopyComplete
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.exe
+C:\Users\Samar_K14501\OneDrive\RESOURCES\GDAPS 2\PE05_MonogameFSMandSpritesheets\AnimationStarter_2019\obj\x86\Debug\AnimationStarter_2019.pdb
